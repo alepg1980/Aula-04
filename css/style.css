@@ -1,0 +1,47 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+    font-family: 'Open Sans', 'Times New Roman';
+    background: #C4D0F2;
+}
+
+td{
+    background: #F2E9D8;
+    color: #B8C6D9;
+    padding: 8px;
+    text-align: center;
+}
+
+th{
+    background: #083359;
+    color: #F2E9D8;
+    padding: 8px;
+}
+h1{color: #F2E9D8;
+   margin-top: 40px;
+   font-size: 40px; /* Tamanho da fonte */
+   font-weight: bold; /*Negrito */
+   text-align: center;
+}
+
+h2{color: #083359;
+   text-align: center;
+   font-size: 22px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse; /*remove a linha dupla */
+    border: 1px solid #083359;
+    margin-top: 24px;
+}
+
+img{
+    border-radius: 10%;
+    width: 150px;
+}
+
+.direita{
+    text-align: right;
+}
