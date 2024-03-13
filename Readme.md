@@ -1,5 +1,6 @@
-Nome: Alessandro Pinto Gonçalves - GTI - Noturno - 4º Semestre
+# Aula 4 - Exercício Tabelas
 
-Atividade realizada em 12/03/2024
+## Atividade realizada em 12/03/2024
 
-Aula 4 - Exercício Tabelas
+### Nome: Alessandro Pinto Gonçalves - GTI - Noturno - 4º Semestre
+
